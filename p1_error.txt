@@ -1,0 +1,10 @@
+{
+	int 3a;
+	int b;
+	read(a) ;
+	read(b) ;
+    while(b){
+        a= b;
+        b = a % b; }
+ return a;
+}
